@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 
 Get in touch!
 
-- **Gmail:** [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="20"/> Meu E-mail](mailto:edmilson.udi@gmail.com)
-- **Linkedin:** [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="20"/> Linkedin](https://www.linkedin.com/in/edmilson-batista/)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="20"/> Meu E-mail](mailto:edmilson.udi@gmail.com)
+[<img src="![image](https://github.com/edmilsonbatista/edmilsonbatista/assets/15211043/fb2b2277-2bac-4f3f-925c-5d1afb007b63)
+" width="20"/> Linkedin](https://www.linkedin.com/in/edmilson-batista/)

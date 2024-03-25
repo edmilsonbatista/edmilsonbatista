@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### I'm Edmilson
+### I'm Edmilson <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="50" height="50" />
 
 Here are some ideas to get you started:
 

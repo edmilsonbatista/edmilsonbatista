@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a DevOps Developer currently working at @CognaTech. My passion is creating things!
+
 <!--
 **edmilsonbatista/edmilsonbatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Get in touch!

@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm a DevOps Developer currently working at @CognaTech. My passion is creating things!
+### I'm Edmilson
 
 Here are some ideas to get you started:
 

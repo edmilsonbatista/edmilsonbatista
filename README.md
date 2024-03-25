@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 Get in touch!
 
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="20"/> Meu E-mail](mailto:edmilson.udi@gmail.com)
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20"/> Linkedin](https://www.linkedin.com/edmilson-batista)
-[Meu Perfil no GitHub](https://github.com/edmilsonbatista)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="20"/>  Gmail](mailto:edmilson.udi@gmail.com)
+
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20"/>  Linkedin](https://www.linkedin.com/edmilson-batista)
+
+[<img src="https://img.icons8.com/fluency/48/github.png" width="20"/>  GitHub](https://github.com/edmilsonbatista)

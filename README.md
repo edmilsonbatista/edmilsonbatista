@@ -15,3 +15,5 @@ Get in touch!
 
 [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="20"/> Meu E-mail](mailto:edmilson.udi@gmail.com)
 [<img src="https://img.icons8.com/128/3536/3536505.png" width="20"/> Linkedin](https://www.linkedin.com/in/edmilson-batista/)
+
+![image](https://github.com/edmilsonbatista/edmilsonbatista/assets/15211043/30303f6c-ceaf-4879-a68d-82834dc20750)

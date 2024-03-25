@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 💖 Treating everyone with love and empathy
 - 📖 Being open to new ideas, and free of preconceptions
 
+<img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
+
 Get in touch!
 
 [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="20"/>  Gmail](mailto:edmilson.udi@gmail.com)

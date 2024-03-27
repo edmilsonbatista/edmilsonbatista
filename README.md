@@ -31,12 +31,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=edmilsonbatista&show_icons=true&theme=tokyonight" />
 </div>
 
-
-### --------------------------------------------------------------------------
-Get in touch!
-
-<div> 
-    <a href="https://www.linkedin.com/in/edmilson-batista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://www.linkedin.com/in/juliioribeiro-dev/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png?" target="_blank"></a>  
-    <a href="https://www.linkedin.com/in/juliioribeiro-dev/" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" target="_blank"></a>   
+  ##
+  
+### Get in touch!
+<div class="icons-container" align="center">  
+    <a href="https://www.linkedin.com/in/edmilson-batista/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="40" width="40" target="_blank></a>  
+    <a href="mailto:edmilson.udi@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png?" height="40" width="40" target="_blank"></a>  
+    <a href="https://github.com/edmilsonbatista" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png"  height="40" width="40" target="_blank"></a>   
 </div>
